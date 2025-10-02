@@ -25,4 +25,3 @@ async function Pokemon(id) {
     </section>`
 }
 
-Pokemon(6)
